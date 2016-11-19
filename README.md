@@ -5,3 +5,5 @@ Happy Birthday, Megan!
 
 ## Clues:
 1. See Issue \#1
+
+See citation.json to find the paper that originally contained these puzzles. The original puzzles use other names.
